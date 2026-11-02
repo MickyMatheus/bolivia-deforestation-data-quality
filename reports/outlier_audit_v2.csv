@@ -1,0 +1,6 @@
+Dataset,Observations,Outliers,Outliers (%)
+carbon,2800,476,17.0
+tree_cover,2800,473,16.89
+drivers,8351,1298,15.54
+primary_drivers,6506,944,14.51
+primary_loss,1296,165,12.73

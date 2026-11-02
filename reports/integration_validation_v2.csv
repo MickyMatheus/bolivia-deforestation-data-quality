@@ -1,0 +1,11 @@
+Validation,Passed
+Row count preserved,True
+Unique composite keys,True
+Valid threshold,True
+Valid year range,True
+Tree loss available,True
+No primary loss values in 2001,True
+carbon availability consistency,True
+primary_loss availability consistency,True
+drivers availability consistency,True
+primary_drivers availability consistency,True

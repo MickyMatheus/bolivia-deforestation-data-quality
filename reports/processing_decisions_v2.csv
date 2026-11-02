@@ -1,0 +1,6 @@
+Finding,Action,Original values modified
+Different source coverage,Left joins with availability flags,No
+Different canopy thresholds,Select threshold 30 for integration,No
+Missing source matches,Preserve NaN and document coverage,No
+Statistical outliers,Flag and retain observations,No
+Driver-level observations,Aggregate by geographic unit and year,No

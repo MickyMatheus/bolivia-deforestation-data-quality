@@ -1,0 +1,7 @@
+Stage,Dataset,Rows,Columns,Missing values,Duplicate rows
+BEFORE,carbon,8400,12,0,0
+BEFORE,tree_cover,22400,9,0,0
+BEFORE,drivers,8351,7,0,0
+BEFORE,primary_drivers,6506,7,0,0
+BEFORE,primary_loss,1296,6,0,0
+AFTER,integrated_threshold30,2800,23,4196,0

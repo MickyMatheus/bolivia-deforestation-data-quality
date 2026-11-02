@@ -1,0 +1,7 @@
+Check,Passed
+Reproducible integration,True
+Row count preserved,True
+Unique composite keys,True
+Valid years,True
+Valid threshold,True
+Missing primary loss in 2001,True
