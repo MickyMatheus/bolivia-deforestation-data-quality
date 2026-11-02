@@ -10,6 +10,21 @@ The project demonstrates how multiple datasets with different geographic, tempor
 
 ---
 
+## Table of Contents
+
+1. [Project Overview](#1-project-overview)
+2. [Dataset Overview](#2-dataset-overview)
+3. [Data Quality Workflow](#3-data-quality-workflow)
+4. [Before vs. After Integration](#4-before-vs-after-integration)
+5. [Exploratory Data Analysis](#5-exploratory-data-analysis)
+6. [Data Reconciliation Results](#6-data-reconciliation-results)
+7. [Validation & Reproducibility](#8-validation--reproducibility)
+8. [Technical Documentation](#11-technical-documentation)
+9. [Project Limitations](#12-project-limitations)
+10. [Professional Skills Demonstrated](#14-professional-skills-demonstrated)
+
+---
+
 ## 1. Project Overview
 
 ### The Challenge
